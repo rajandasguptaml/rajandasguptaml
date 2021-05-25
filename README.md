@@ -11,19 +11,19 @@
 <p align="center">
 <a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>
     </a>
-    <a href="https://utshabkg.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kumarutshab" height="30" width="30" title='Medium'/>
+    <a href="https://medium.com/@rajon168075" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rajon168075" height="30" width="30" title='Medium'/>
     </a>
     <a href="https://www.kaggle.com/rajandasguptaml" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rajandasguptaml" height="30" width="30" title='Kaggle'/>
     </a>
-    <a href="https://codeforces.com/profile/utshab_1603022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="utshab_1603022" height="30" width="30" title='Codeforces'/>
+    <a href="https://codeforces.com/profile/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rajandasgupta" height="30" width="30" title='Codeforces'/>
     </a>
-    <a href="https://www.hackerearth.com/@kumarutshab/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kumarutshab" height="30" width="30" title='HackerEarth'/>
+    <a href="https://www.hackerearth.com/@rajandasgupta/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kumarutshab" height="30" width="30" title='HackerEarth'/>
     </a> 
     <a href="https://stackoverflow.com/users/13785896/utshab-kumar-ghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13785896" height="30" width="30" title='Stack Overflow'/>
     </a>
-    <a href="https://facebook.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="utshabkg" height="30" width="30" title='Facebook'/>
+    <a href="https://facebook.com/rajandasgupta999" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajandasgupta999" height="30" width="30" title='Facebook'/>
     </a>
-    <a href="https://twitter.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="utshabkg" height="30" width="30" title='Twitter'/>
+    <a href="https://twitter.com/rajan_aidig" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajan_aidig" height="30" width="30" title='Twitter'/>
     </a>
     <a href="https://instagram.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utshabkg" height="30" width="30" title='Instagram'/>
     </a>

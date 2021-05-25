@@ -19,7 +19,7 @@
     </a>
     <a href="https://www.hackerearth.com/@rajandasgupta/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kumarutshab" height="30" width="30" title='HackerEarth'/>
     </a> 
-    <a href="https://stackoverflow.com/users/13785896/utshab-kumar-ghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13785896" height="30" width="30" title='Stack Overflow'/>
+    <a href="https://stackexchange.com/users/20910948/rajan-das-gupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="20910948" height="30" width="30" title='Stack Overflow'/>
     </a>
     <a href="https://facebook.com/rajandasgupta999" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajandasgupta999" height="30" width="30" title='Facebook'/>
     </a>

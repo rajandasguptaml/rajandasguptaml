@@ -7,7 +7,7 @@
 - Studying at <a href="https://www.aiub.edu/">American International University-Bangladeshy</a>.
 - Currently learning and working on different data analytics based projects
 - Ask me about **Programming/Machine Learning/Tech Enthusiast**.
-- I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
+- I’m looking to collaborate on [Machine Learning Practices](https://github.com/rajandasguptaml/Machine-Learning-Practice) and [Competitive Programming](https://github.com/rajandasguptaml/Competitive-Programming).
 - How to reach me: 
  <p align="center">
     <a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>

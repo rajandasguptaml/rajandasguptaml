@@ -8,9 +8,8 @@
 - Ask me about **Programming/Machine Learning/Tech Enthusiast**.
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
 - How to reach me: 
-- <p align="center">
-    
-<a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>
+ <p align="center">
+    <a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>
     </a>
     <a href="https://medium.com/@rajon168075" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rajon168075" height="30" width="30" title='Medium'/>
     </a>
@@ -27,8 +26,7 @@
     <a href="https://twitter.com/rajan_aidig" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajan_aidig" height="30" width="30" title='Twitter'/>
     </a>
     <a href="https://instagram.com/rajan_das_gupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajan_das_gupta" height="30" width="30" title='Instagram'/>
-    </a>
-    
+    </a>    
 </p>
 
 <p>Have a visit to my <b><a href="https://rajandasguptaml.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="rajandasgupta999@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>

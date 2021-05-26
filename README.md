@@ -30,7 +30,7 @@
     </a>    
 </p>
 
-<p>Have a visit to my <b><a href="https://.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="rajandasgupta999@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
+<p>Have a visit to my <b><a href="https://rajandasguptaml.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="rajandasgupta999@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 
 <hr>
 <p align="left">

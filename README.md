@@ -5,7 +5,7 @@
 
 - I'm currently working as **Visual Designer Co Op** of <a href="https://gaotek.com/">GAOTek</a>.
 - Studying at <a href="https://www.aiub.edu/">American International University-Bangladeshy</a>.
-- Currently learning and working on different data analytics based projects
+- Currently learning and working on different data analytics based projects.
 - Ask me about **Programming/Machine Learning/Tech Enthusiast**.
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/rajandasguptaml/Machine-Learning-Practice) and [Competitive Programming](https://github.com/rajandasguptaml/Competitive-Programming).
 - How to reach me: 

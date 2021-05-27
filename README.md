@@ -1,4 +1,4 @@
-# Hi there, I'm Rajan Das Gupta 👋
+#  Hi there, I'm [Rajan Das Gupta!](https://avinashkranjan.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&theme=algolia"/>

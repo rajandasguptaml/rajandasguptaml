@@ -12,7 +12,7 @@
  <p align="center">
     <a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>
     </a>
-    <a href="https://medium.com/@rajon168075" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rajon168075" height="30" width="30" title='Medium'/>
+    <a href="https://rajandasguptaml.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rajandasguptaml" height="30" width="30" title='Medium'/>
     </a>
     <a href="https://www.kaggle.com/rajandasguptaml" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rajandasguptaml" height="30" width="30" title='Kaggle'/>
     </a>

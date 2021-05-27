@@ -8,7 +8,10 @@
 - Currently learning and working on different data analytics based projects.
 - Ask me about **Programming/Machine Learning/Tech Enthusiast**.
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/rajandasguptaml/Machine-Learning-Practice) and [Competitive Programming](https://github.com/rajandasguptaml/Competitive-Programming).
-- How to reach me: 
+<p>Have a visit to my <b><a href="https://rajandasguptaml.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="rajandasgupta999@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
+
+<hr>
+<h3 align="center">How to reach me</h3>
  <p align="center">
     <a href="https://linkedin.com/in/rajandasgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajandasgupta" height="30" width="30" title='LinkedIn'/>
     </a>
@@ -29,8 +32,6 @@
     <a href="https://instagram.com/rajan_das_gupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajan_das_gupta" height="30" width="30" title='Instagram'/>
     </a>    
 </p>
-
-<p>Have a visit to my <b><a href="https://rajandasguptaml.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="rajandasgupta999@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 
 <hr>
 

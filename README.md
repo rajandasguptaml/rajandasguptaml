@@ -40,13 +40,5 @@
 
 <p align="left">
     <img align='right' src="https://komarev.com/ghpvc/?username=rajandasguptaml" alt="rajandasguptaml" /> </p>
-<hr>
-    
-<div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
-  </a>
-</div>
-<hr>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajandasguptaml)](https://github.com/rajandasguptaml/github-readme-stats) -->

@@ -25,7 +25,7 @@
     </a> 
     <a href="https://stackoverflow.com/users/15361882/rajan-das-gupta?tab=profile"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15361882" height="30" width="30" title='Stack Overflow'/>
     </a>
-    <a href="https://facebook.com/rajandasgupta999" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajandasgupta999" height="30" width="30" title='Facebook'/>
+    <a href="https://facebook.com/rajandasguptaml" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajandasgupta999" height="30" width="30" title='Facebook'/>
     </a>
     <a href="https://twitter.com/rajan_aidig" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajan_aidig" height="30" width="30" title='Twitter'/>
     </a>

@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there, I'm [Rajan Das Gupta!](https://rajandasguptaml.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
+# <h1 align="center"> Hi there, I'm [Rajan Das Gupta!](https://rajandasguptaml.github.io) <img src="" width="10px"></h1>
 
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&theme=algolia"/>

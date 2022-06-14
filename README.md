@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&theme=algolia"/>
 
 - I'm currently working as **SQA Engineer** of <a href="https://www.olivineltd.com/">Olivine Limited</a>.
-- - M.Sc. in CS at <a href="https://juniv.edu/">Jahangirnagar University</a>.
+- M.Sc. in CS at <a href="https://juniv.edu/">Jahangirnagar University</a>.
 - B.Sc. in CSE at <a href="https://www.aiub.edu/">American International University-Bangladesh</a>.
 - Currently learning and working on different data analytics based projects.
 - Ask me about **Programming/Machine Learning/Technology**.

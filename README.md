@@ -7,7 +7,7 @@
 - M.Sc. in Computer Science at <a href="https://juniv.edu/">Jahangirnagar University</a>.
 - B.Sc. in CSE at <a href="https://www.aiub.edu/">American International University-Bangladesh</a>.
 - Currently learning and working on different data analytics based projects.
-- Ask me about **Programming/HCI/Machine Learning/Technology**.
+- Ask me about **Programming/Machine Learning/Technology**.
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/rajandasguptaml/Machine-Learning-Practice) and [Competitive Programming](https://github.com/rajandasguptaml/Competitive-Programming).
 <p>Have a visit to my <b><a href="https://rajandasguptaml.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="https://en.gravatar.com/rajandasguptaml">Email</a> me. Have a nice tour to my profiles.</p>
 

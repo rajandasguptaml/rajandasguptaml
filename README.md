@@ -3,7 +3,7 @@
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&theme=algolia"/>
 
-- I'm currently working as **UI/UX Engineer** of <a href="[https://www.apexdmit.com/">Olivine Limited</a>.
+- I'm currently working as **UI/UX Engineer** of <a href="[https://www.apexdmit.com/">Apex DMIT</a>.
 - M.Sc. in Computer Science at <a href="https://juniv.edu/">Jahangirnagar University</a>.
 - B.Sc. in CSE at <a href="https://www.aiub.edu/">American International University-Bangladesh</a>.
 - Currently learning and working on different data analytics based projects.

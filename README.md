@@ -91,10 +91,6 @@ I am a software engineer with a research interest in applied machine learning. I
   <img src="https://github-profile-trophy.vercel.app/?username=rajandasguptaml&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 </a>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajandasguptaml&theme=minimal&hide_border=true&color=0A66C2&line=0A66C2&point=333"/>
-
 </div>
 
 ---

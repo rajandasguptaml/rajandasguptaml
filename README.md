@@ -55,7 +55,7 @@ I am a software engineer with a research interest in applied machine learning. I
 
 </div>
 
-**Languages** Python · Java · C# · C · PHP · SQL
+**Languages** Python · PHP · SQL
 **Web** React · Node.js · Laravel · Bootstrap · HTML · CSS
 **Data** MySQL · Oracle
 **Tooling** Git · Linux · REST APIs · VS Code
@@ -78,10 +78,7 @@ I am a software engineer with a research interest in applied machine learning. I
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajandasguptaml&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333&bg_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajandasguptaml&layout=compact&hide_border=true&title_color=0A66C2&text_color=333&bg_color=ffffff&langs_count=8"/>
 
-<br/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=rajandasguptaml&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&background=ffffff"/>
 

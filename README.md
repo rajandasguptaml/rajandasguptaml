@@ -51,11 +51,11 @@ I am a software engineer with a research interest in applied machine learning. I
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,c,php,react,nodejs,laravel,bootstrap,html,css,mysql,git,linux,vscode&perline=15" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,laravel,bootstrap,html,css,mysql,git,linux,vscode&perline=15" alt="Tech stack"/>
 
 </div>
 
-**Languages** Python · PHP · SQL
+**Languages** Python · SQL
 **Web** React · Node.js · Laravel · Bootstrap · HTML · CSS
 **Data** MySQL · Oracle
 **Tooling** Git · Linux · REST APIs · VS Code

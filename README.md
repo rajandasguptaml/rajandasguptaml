@@ -55,14 +55,7 @@ Research Associate @ ElITE Research Lab LLC | Looking for PhD opportunities (202
 ---
 
 
-## [**Technical and ML Modeling Skills**](https://rajandasguptaml.github.io/) :
-
-- **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL
-- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM
-- **Machine Learning Techniques**: Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), Diffusion Models, Retrieval-Augmented Generation (RAG), Multimodal & Vision-Language Reasoning, Interpretable/Explainable ML, Uncertainty Estimation
-- **Biomedical AI and Clinical Applications**: Clinical Decision Support, Multimodal Medical Reasoning, Disease Detection & Prediction (Alzheimer's, Cardiovascular, Neonatal), Knowledge-Grounded Clinical AI
-- **Interdisciplinary AI Research**: Human-Centered AI, AI for Good, HCI/HAI, Fairness & Reliability, Low-Resource Settings
-- **Others**: GitHub, Azure, Power BI, Tableau, REST APIs, HCI/UX Design, Product Management
+[**View All Publications**](https://rajandasguptaml.github.io/publications.html)
 
 ---
 

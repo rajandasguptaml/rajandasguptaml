@@ -36,6 +36,25 @@ Research Associate @ ElITE Research Lab LLC | Looking for PhD opportunities (202
 
 ---
 
+## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Domains:** Deep Learning · NLP · Computer Vision · Graph Neural Networks · Diffusion Models · Retrieval-Augmented Generation (RAG) · Biomedical AI · Clinical Decision Support
+
+---
+
+
 ## [**Technical and ML Modeling Skills**](https://rajandasguptaml.github.io/) :
 
 - **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL
@@ -47,22 +66,3 @@ Research Associate @ ElITE Research Lab LLC | Looking for PhD opportunities (202
 
 ---
 
-## [**Selected Publications**](https://rajandasguptaml.github.io/publications.html) :
-
-- **BRAINS:** A Retrieval-Augmented System for Alzheimer's Detection and Monitoring — *ICMLA 2025* · [arXiv](https://arxiv.org/abs/2511.02490)
-- **HyCARD-Net:** A Synergistic Hybrid Intelligence Framework for Cardiovascular Disease Diagnosis — *ICICML 2025* · [arXiv](https://arxiv.org/abs/2601.17767)
-- **ViMoNet:** A Multimodal Vision-Language Framework for Human Behavior Understanding — *AIBDF 2025* · [arXiv](https://arxiv.org/abs/2508.09818)
-- **VLAgeBench:** Benchmarking Large Vision-Language Models for Zero-Shot Human Age Estimation — *Preprint* · [arXiv](https://arxiv.org/abs/2603.26015)
-- Multimodal Programming in Computer Science with Interactive Assistance Powered by a Large Language Model — *HCII 2025* · [arXiv](https://arxiv.org/abs/2503.06552)
-- A Deep Learning and Machine Learning Approach to Predict Neonatal Death — *IJPHS 2025* · [arXiv](https://arxiv.org/abs/2506.16929)
-
-[**View All Publications and Ongoing Works**](https://rajandasguptaml.github.io/publications.html)
-
----
-
-## 🏆 Awards & Academic Service :
-
-- **Grants:** ICMLA Research Support (USD 2,000, Dec 2025) · Multimedia University Research Grant (USD 2,700, Sept 2025)
-- **Recognition:** Aspire Leaders Program 2024 · Hult Prize Champion (Dec 2020)
-- **Peer Reviewer:** PLOS ONE · IEEE SMC · ICONIP · IEEE EDUCON
-- **Program Committee:** IEEE ICTAI 2026 · **Judge:** Three Minute Thesis Competition (2025)

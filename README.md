@@ -54,8 +54,43 @@ Research Associate @ ElITE Research Lab LLC | Looking for PhD opportunities (202
 
 ---
 
+---
 
-[**View All Publications**](https://rajandasguptaml.github.io/publications.html)
+## [**Selected Publications**](https://rajandasguptaml.github.io/publications.html) :
+
+> **12 conference papers** (8 first-author) · **1 journal article** · several under review. Full list on my [portfolio](https://rajandasguptaml.github.io/publications.html) and [Google Scholar](https://scholar.google.com/citations?user=ipE0E-8AAAAJ&hl=en).
+
+**BRAINS: A Retrieval-Augmented System for Alzheimer's Detection and Monitoring**<br>
+![ICMLA 2025](https://img.shields.io/badge/ICMLA-2025-1f1f1f?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.02490-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.02490)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2511.02490)
+
+**HyCARD-Net: A Synergistic Hybrid Intelligence Framework for Cardiovascular Disease Diagnosis**<br>
+![ICICML 2025](https://img.shields.io/badge/ICICML-2025-1f1f1f?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.17767-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.17767)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2601.17767)
+
+**ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding**<br>
+![AIBDF 2025](https://img.shields.io/badge/AIBDF-2025-1f1f1f?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.09818-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.09818)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2508.09818)
+
+**VLAgeBench: Benchmarking Large Vision-Language Models for Zero-Shot Human Age Estimation**<br>
+![Preprint 2026](https://img.shields.io/badge/Preprint-2026-1f1f1f?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.26015-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.26015)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2603.26015)
+
+**Multimodal Programming in Computer Science with Interactive Assistance Powered by a Large Language Model**<br>
+![HCII 2025](https://img.shields.io/badge/HCII-2025-1f1f1f?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.06552-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.06552)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2503.06552)
+
+**A Deep Learning and Machine Learning Approach to Predict Neonatal Death**<br>
+![IJPHS 2025](https://img.shields.io/badge/IJPHS-2025%20(Journal)-0b7285?style=flat-square)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.16929-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.16929)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://rajandasguptaml.github.io/publication/conference-paper/conference-paper.pdf)
+
+---
 
 ---
 
